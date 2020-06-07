@@ -1,3 +1,4 @@
+#Raad Barnett 1231583
 current_date = input("Enter the current date in (mm/dd/yyyy)")
 date_of_birth = input("Enter the date of birth in (mm/dd/yyyy)")
 
