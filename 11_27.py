@@ -1,3 +1,4 @@
+# Raad Barnett 1231583
 dict1 = dict()
 for i in range(5):
     print("Enter player {}'s jersey number:".format(i+1))
