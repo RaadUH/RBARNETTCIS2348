@@ -1,3 +1,4 @@
+# Raad Barnett 1231583
 class ItemToPurchase:
     def __init__(self):
         self.item_name = "none"
