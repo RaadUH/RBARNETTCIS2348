@@ -1,3 +1,4 @@
+# Raad Barnett 1231583
 def get_age():
     age = int(input())
     if(age>=75 or age<=18):
