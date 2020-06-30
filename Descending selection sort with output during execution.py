@@ -1,3 +1,4 @@
+# Raad Barnett 1231583
 def selection_sort_descend_trace(numbers):
     for i in range(len(numbers) - 1):
         index_smallest = i
